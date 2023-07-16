@@ -10,13 +10,18 @@ The game features an animated monkey character, which can be controlled by the p
 python3 -m pip install -U pygame --user
 ```
 
+## Start game
+```
+python3 main.py
+```
+
 ## Features
 -  Animated sprites (monkey, flames)
 -  Sprite group collision (bananas)
 -  Animated background (clouds)
 -  Game music and sounds
 
-## Skills:
+## Skills
 -  Python
 -  pygame
 -  game development
